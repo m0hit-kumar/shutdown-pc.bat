@@ -1,0 +1,6 @@
+@echo off 
+title shutdown code by Mohit kumar
+pause.
+shutdown.exe -r
+echo press any key to shutdown your pc
+goto quit
